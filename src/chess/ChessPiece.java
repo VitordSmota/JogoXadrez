@@ -1,8 +1,8 @@
 package chess;
 
-import boardGame.Board;
-import boardGame.Piece;
-import boardGame.Position;
+import boardgame.Board;
+import boardgame.Piece;
+import boardgame.Position;
 
 public abstract class ChessPiece extends Piece {
     private Color color;

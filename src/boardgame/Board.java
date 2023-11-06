@@ -1,4 +1,4 @@
-package boardGame;
+package boardgame;
 
 public class Board {
     private int rows;
